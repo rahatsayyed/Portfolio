@@ -5,9 +5,9 @@ module.exports = {
     title: 'Rahat Sayyed',
     description:
       'Rahat Sayyed is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://github.com/youreachedrahat', // No trailing slash allowed!
+    siteUrl: 'https://github.com/rahatsayyed', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@youreachedrahat',
+    twitterUsername: '@rahxtsayyed',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

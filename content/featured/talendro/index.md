@@ -2,7 +2,7 @@
 date: '2'
 title: 'Talendro'
 cover: './demo.png'
-github: 'https://github.com/youreachedrahat/Talendro'
+github: 'https://github.com/rahatsayyed/Talendro'
 external: 'https://talendro.netlify.app/'
 cta: ''
 tech:

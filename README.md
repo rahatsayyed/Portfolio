@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="Logo" src="https://github.com/youreachedrahat/Portfolio/assets/70068895/475ee5f6-378b-4d95-a5bd-6606d2347474" width="200" />
+  <img alt="Logo" src="https://github.com/rahatsayyed/Portfolio/assets/70068895/475ee5f6-378b-4d95-a5bd-6606d2347474" width="200" />
 </div>
 <h1 align="center">
   Rahat Sayyed - portfolio
@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/youreachedrahat/Portfolio/assets/70068895/a47a5b85-c84d-48b5-a865-1b8b075e943c" width="100%" />
+  <img alt="Demo" src="https://github.com/rahatsayyed/Portfolio/assets/70068895/a47a5b85-c84d-48b5-a865-1b8b075e943c" width="100%" />
 </div>
 
 
@@ -74,7 +74,7 @@ this website is originally designed and developed by <a href="https://brittanych
 
 ## contact me
 👤 **RaHaT SaYYeD**
-- Github: https://github.com/youreachedrahat
-- Linkedin: https://www.linkedin.com/in/youreachedrahat
-- Email: sayyedrahat721@gmail.com
+- Github: https://github.com/rahatsayyed
+- Linkedin: https://www.linkedin.com/in/rahatsayyed
+- Email: rahxtsayyed@gmail.com
 

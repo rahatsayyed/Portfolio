@@ -1,7 +1,7 @@
 ---
 date: '2022-04-13'
 title: 'Coach Geek'
-github: 'https://github.com/youreachedrahat/coach-geek'
+github: 'https://github.com/rahatsayyed/coach-geek'
 external: 'https://coachgeek.herokuapp.com/'
 ios: ''
 tech:

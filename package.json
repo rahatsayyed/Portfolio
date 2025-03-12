@@ -2,10 +2,10 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Rahat Sayyed <sayyedrahat721@gmail.com>",
+  "author": "Rahat Sayyed <rahxtsayyed@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/youreachedrahat"
+    "url": "https://github.com/rahatsayyed"
   },
   "keywords": [
     "gatsby"

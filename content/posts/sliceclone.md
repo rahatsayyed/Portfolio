@@ -5,7 +5,7 @@ date: '2022-01-09'
 draft: false
 android: ''
 slug: '/sliceclone'
-external: 'https://github.com/youreachedrahat/slice-clone'
+external: 'https://github.com/rahatsayyed/slice-clone'
 tags:
   - VS Code
   - HTML

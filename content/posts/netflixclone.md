@@ -4,7 +4,7 @@ description: clone of Netflix website built using HTML, CSS & Javascript as a Fr
 date: '2022-03-18'
 draft: false
 slug: '/netflixclone'
-external: 'https://github.com/youreachedrahat/netflix-clone'
+external: 'https://github.com/rahatsayyed/netflix-clone'
 tags:
   - JavaScript
   - HTML/CSS

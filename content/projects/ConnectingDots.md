@@ -1,7 +1,7 @@
 ---
 date: '2023-02-13'
 title: 'Connecting dotss'
-github: 'https://github.com/youreachedrahat/connectingdotss'
+github: 'https://github.com/rahatsayyed/connectingdotss'
 external: 'http://connectingdotss.in/'
 ios: ''
 tech:

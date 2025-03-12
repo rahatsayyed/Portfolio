@@ -4,7 +4,7 @@ description: CLI based app that allows user to add task marks as complete, this 
 date: '2022-02-06'
 draft: false
 slug: '/taskapp'
-external: 'https://github.com/youreachedrahat/mongodb-tasks'
+external: 'https://github.com/rahatsayyed/mongodb-tasks'
 tags:
   - Node.js
   - MongoDB

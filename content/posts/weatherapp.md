@@ -4,7 +4,7 @@ description: Web application built on the Node, Express, node fetch stack with t
 date: '2022-01-27'
 draft: false
 slug: '/weatherapp'
-external: 'https://github.com/youreachedrahat/weatherApp'
+external: 'https://github.com/rahatsayyed/weatherApp'
 tags:
   - Node.js
   - Express

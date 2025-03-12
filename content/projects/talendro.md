@@ -1,7 +1,7 @@
 ---
 date: '2024-11-28'
 title: 'Talendro'
-github: 'https://github.com/youreachedrahat/Talendro'
+github: 'https://github.com/rahatsayyed/Talendro'
 external: 'https://talendro.netlify.app/'
 ios: ''
 tech:

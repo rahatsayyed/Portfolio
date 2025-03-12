@@ -1,7 +1,7 @@
 ---
 date: '2023-04-28'
 title: 'HirEx'
-github: 'https://github.com/youreachedrahat/HirEx'
+github: 'https://github.com/rahatsayyed/HirEx'
 external: 'https://hirex.onrender.com/'
 ios: ''
 tech:

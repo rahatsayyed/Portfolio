@@ -4,7 +4,7 @@ description: A good quote tell's a story and enhance's the credibility - fetches
 date: '2022-01-11'
 draft: false
 slug: '/theqoutes'
-external: 'https://github.com/youreachedrahat/the-quotes'
+external: 'https://github.com/rahatsayyed/the-quotes'
 tags:
   - JavaScript
   - HTML

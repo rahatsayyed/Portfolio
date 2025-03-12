@@ -4,7 +4,7 @@ description: clone of Zerodha built using HTML, CSS & Javascript as a Front-end.
 date: '2022-01-20'
 draft: false
 slug: '/zerodhaclone'
-external: 'https://github.com/youreachedrahat/zerodha-clone'
+external: 'https://github.com/rahatsayyed/zerodha-clone'
 tags:
   - Node.js
   - Express
